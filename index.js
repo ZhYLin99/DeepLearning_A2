@@ -4,6 +4,7 @@ CLASSES = {
   2: 'class2',
   3: 'class3',
   4: 'class4',
+  5: 'class5',
 };
 
 const MODEL_PATH =
