@@ -1,10 +1,10 @@
 CLASSES = {
   0: 'Alma_Mater',
   1: 'Curl',
-  2: 'Lion',
-  3: 'Marte',
-  4: 'Thinker',
-  5: 'Walker',
+  2: 'The_Scholars_Lion',
+  3: 'Le_Marteleur',
+  4: 'The_Thinker',
+  5: 'Tight_Ropr_Walker',
 };
 
 const MODEL_PATH =
